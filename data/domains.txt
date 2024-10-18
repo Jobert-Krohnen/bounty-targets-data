@@ -113,8 +113,8 @@ socket.bitpanda.com
 account.bitpanda.com
 blog.bitpanda.com
 www.bitstamp.net
-security-testing-env-api.k8s.tools-001.d-use-1.braze.com
-security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com
+bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
+bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 docs.bugcrowd.com
 bugcrowd.com
 tracker.bugcrowd.com
@@ -21272,15 +21272,6 @@ shop.humo.be
 www.humo.be
 support.innogames.com
 innogames.com
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-www.gamma.be
-www.gamma.nl
-www.karwei.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
